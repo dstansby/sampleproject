@@ -1,0 +1,8 @@
+*.so
+*.o
+*.c
+
+*.egg-info
+*.pyc
+.tox/*
+build/*
